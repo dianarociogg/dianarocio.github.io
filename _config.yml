@@ -1,11 +1,7 @@
 title: Diana Rocío Galindo # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-Full data stack <br><br> <a href="https://www.linkedin.com/in/drgalindog/">LinkedIn</a>
+#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: Full data stack <br><br> <a href="https://www.linkedin.com/in/drgalindog/">LinkedIn</a>
  <br> 
  <br> 
  <br>
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal
