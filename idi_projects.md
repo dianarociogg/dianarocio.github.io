@@ -1,14 +1,14 @@
 ## Lead applied research and innovation projects for geospatial data management
 (In spanish)
 - [Deep Learning applied to the classification of construction typologies](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0007_deeplearning.jpg)
-- [Methodology for obtaining and analyzing real estate data using alternative sources](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0008_webscraping.jpg),
+- [Methodology for obtaining and analyzing real estate data using alternative sources](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0008_webscraping.jpg)
 - [Optimization for digital soil mapping](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0003_mapeosuelos.jpg)
 - [Evaluation of object-based classification in the generation of basic cartography 1:10,000](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0005_calsifiobjetos.jpg)
 - [Built-up area change detection](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0001_deteccioncambios.jpg)
 - [Strengthening Colombia's Spatial Data Infrastructure](https://www.icde.gov.co/)
 - [Diffusion and transfer of knowledge in geospatial technologies](https://semanageomatica.igac.gov.co/2020/)
 
-## Some EO data analyses
+## EO data analyses
 
 - [Merging multispectral and pancromatic bands of landsat using cokriging](https://novaresearch.unl.pt/en/publications/merging-multispectral-and-pancromatic-bands-of-landsat-using-cokr-2)
 
