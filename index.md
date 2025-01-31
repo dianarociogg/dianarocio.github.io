@@ -1,4 +1,4 @@
-## Portfolio
+# Diana Rocio Galindo
 
 I am specialised in design, develop, implement and integrate data sources and provide solutions using data science for decision making processes. I use tools and techniques in each stage of the projects as data engineering, analysis, management, and visualization.  Some project codes are available on repositories, but most of them cannot share due to confidentiality agreements. I have strong analytical, problem-solving, and communication skills, and I am passionate about using data to support decision-making and improve social and environmental outcomes. I am constantly learning new technologies and methods, and I enjoy to collaborate to achieve goals in diverse and dynamic teams. You can view my CV on this website for more information about my experience and qualifications. If you need references or further information, please contact me directly. 
 
@@ -16,7 +16,7 @@ Projects related to data science related to cluster/segmentation data, classific
 - [Multivariate generalized linear regression analysis](/pdf/StatisticalMethods2_DianaRocioGalindo.pdf)
 - [Granting credit modelling](https://modelosriesgo.shinyapps.io/CoasmedasOM1_202205/)
 
-
+- [Data actions for sustainable development end-to-end data project)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
 - [Don't Get Kicked! dataset machine learning exercise (Python)](https://github.com/drgalindog/dianarocioprojects/tree/main/Python/Kicks_data_prediction)
 - [Pyspark and EDA](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
 - [Tableu dashboard](https://github.com/drgalindog/drgalindog.github.io/tree/master/ohtml) 
