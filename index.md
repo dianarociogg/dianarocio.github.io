@@ -10,8 +10,8 @@ Projects related to data science related to cluster/segmentation data, classific
 
 ---
 
-- [Mapping data actions for the SDGs in the global south - technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
-- [Mapping data actions for the SDGs in the global south - Tableau viz)](https://public.tableau.com/app/profile/cepei4743/viz/Mappingdataactions2024/Region)
+- [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
+- [Mapping data actions for the SDGs in the global south - (Tableau viz)](https://public.tableau.com/app/profile/cepei4743/viz/Mappingdataactions2024/Region)
 - [Principal Component Analysis for agricultural study (R)](/ohtml/20180320_ACP_CNA.html)
 - [Classification of land-properties per socioeconomic characteristics (Python)](/ohtml/201806606_Kmeans_estratificacion.html)
 - [Multivariate linear regression analysis](/pdf/StatisticalMethods1_DianaRocioGalindo.pdf)
