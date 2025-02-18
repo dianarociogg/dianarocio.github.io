@@ -2,6 +2,11 @@
 
 I am specialised in design, develop, implement and integrate data sources and provide solutions using data science for decision making processes. I use tools and techniques in each stage of the projects as data engineering, analysis, management, and visualization.  Some project codes are available on repositories, but most of them cannot share due to confidentiality agreements. I have strong analytical, problem-solving, and communication skills, and I am passionate about using data to support decision-making and improve social and environmental outcomes. I am constantly learning new technologies and methods, and I enjoy to collaborate to achieve goals in diverse and dynamic teams. You can view my CV on this website for more information about my experience and qualifications. If you need references or further information, please contact me directly. 
 
+### End-to-end data projects
+
+- [Framework for end-to-end data science projects including geospatial component.](https://upcommons.upc.edu/handle/2117/410221)
+- [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
+
 ---
 
 ### Data reduction, segmentation, classification, prediction and visualization
@@ -10,7 +15,6 @@ Projects related to data science related to cluster/segmentation data, classific
 
 ---
 
-- [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
 - [Mapping data actions for the SDGs in the global south - (Tableau viz)](https://public.tableau.com/app/profile/cepei4743/viz/Mappingdataactions2024/Region)
 - [Principal Component Analysis for agricultural study (R)](/ohtml/20180320_ACP_CNA.html)
 - [Classification of land-properties per socioeconomic characteristics (Python)](/ohtml/201806606_Kmeans_estratificacion.html)
