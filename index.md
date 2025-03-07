@@ -1,6 +1,10 @@
 # Diana Rocio Galindo
 
-I am specialised in design, develop, implement and integrate data sources and provide solutions using data science for decision making processes. I use tools and techniques in each stage of the projects as data engineering, analysis, management, and visualization.  Some project codes are available on repositories, but most of them cannot share due to confidentiality agreements. I have strong analytical, problem-solving, and communication skills, and I am passionate about using data to support decision-making and improve social and environmental outcomes. I am constantly learning new technologies and methods, and I enjoy to collaborate to achieve goals in diverse and dynamic teams. You can view my CV on this website for more information about my experience and qualifications. If you need references or further information, please contact me directly. 
+I am specialised in design, develop, implement and integrate data sources and provide solutions using data science for decision making processes. I use tools and techniques in each stage of the projects as data engineering, analysis, management, and visualisation.  
+
+Some project codes are available on repositories, most of them cannot share due to confidentiality agreements. I have strong analytical, problem-solving, and communication skills, and I am passionate about using data to support decision-making and improve social and environmental outcomes. 
+
+I am constantly learning new technologies and methods, and I enjoy to collaborate to achieve goals in diverse and dynamic teams. You can view my CV on this website for more information about my experience and qualifications. If you need references or further information, please contact me directly. 
 
 ### End-to-end data projects
 
