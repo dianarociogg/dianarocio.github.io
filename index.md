@@ -35,10 +35,6 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 
 <img src="images/thumbnail_1.jpg?raw=true"/>
 
----
-
-- [Geopandas analysis](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
-- [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R)
 - [Some map thumbnails collection](/images/thumbnail_2.jpg)
 
 ---
@@ -49,13 +45,13 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 - [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
 
 ### Tools and technologies I work with
-| Category            | Tools & Technologies | Demo |
+| Category            | Tools & Technologies | Example |
 |---------------------|---------------------|------|
 | **OS**             | Linux (Ubuntu, SUSE), Windows | <img src="images/demo.gif" width="100"/> |
 | **Office tools**   | LibreOffice, Microsoft Office, LaTeX |  |
 | **Data management** | **SQL, SPARQL** <br> - **DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J <br> - **Big data infrastructures:** Hadoop, Spark, Pyspark, DASK |  |
-| **Data analysis**   | **R programming** (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) <br> **Python** (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.) <br> **SAS** |  |
-| **Data visualization** | Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet |  |
+| **Data analysis**   | **R programming** (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) <br> **Python** (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.) <br> **SAS** | [Geopandas analysis](https://github.com/drgalindog/dianarocioprojects/tree/main/Python) |
+| **Data visualization** | Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet | [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R) |
 | **Geospatial analysis** | QGIS, ESRI products, Spatial - R programming |  |
 
 
@@ -63,4 +59,5 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 
 - Explainability and reproducibility
 - Knowledge graphs and semantic web
+- Yes, data-driven public policy
 
