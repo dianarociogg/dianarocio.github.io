@@ -25,11 +25,9 @@ Projects related to data science related to cluster/segmentation data, classific
 - [Pyspark and EDA](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
 - [Tableu dashboard](https://github.com/drgalindog/drgalindog.github.io/tree/master/ohtml) 
 
-(Click on ipynb file to see notebook output)
-
 ---
 
-### [Applied research and innovation projects for geospatial data management](/idi_projects)
+### Applied research and innovation projects for geospatial data management
 
 Geospatial data (vector and raster) analysis commonly implies use of conventional statistical data and its integration with alternative sources in applied research and innovation projects. Likewise, requires the application of different techniques for data analysis including statistical methods, machine Learning and AI algorithms.
 
@@ -45,6 +43,7 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 - [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
 
 ### Tools and technologies I work with
+
 | Category            | Tools & Technologies | Example |
 |---------------------|---------------------|------|
 | **OS**             | Linux (Ubuntu, SUSE), Windows | <img src="images/demo.gif" width="100"/> |
@@ -52,7 +51,10 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 | **Data management** | **SQL, SPARQL** <br> - **DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J <br> - **Big data infrastructures:** Hadoop, Spark, Pyspark, DASK |  |
 | **Data analysis**   | **R programming** (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) <br> **Python** (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.) <br> **SAS** | [Geopandas analysis](https://github.com/drgalindog/dianarocioprojects/tree/main/Python) |
 | **Data visualization** | Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet | [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R) |
-| **Geospatial analysis** | QGIS, ESRI products, Spatial - R programming |  |
+| **Geospatial analysis (Both vector and raster)** | QGIS, ESRI products, Spatial - R programming, ERDAS |  |
+
+### EO image and data processing
+
 
 
 ### Other fields I am interested in
