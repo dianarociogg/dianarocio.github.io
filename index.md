@@ -41,8 +41,6 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 - [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R)
 - [Some map thumbnails collection](/images/thumbnail_2.jpg)
 
-<img src="images/demo.gif" width="300" height="200"/>
-
 ---
 
 ### What is an end-to-end data solution and how does an example look like?
@@ -51,15 +49,15 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 - [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
 
 ### Tools and technologies I work with
+| Category            | Tools & Technologies | Demo |
+|---------------------|---------------------|------|
+| **OS**             | Linux (Ubuntu, SUSE), Windows | <img src="images/demo.gif" width="100"/> |
+| **Office tools**   | LibreOffice, Microsoft Office, LaTeX |  |
+| **Data management** | **SQL, SPARQL** <br> - **DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J <br> - **Big data infrastructures:** Hadoop, Spark, Pyspark, DASK |  |
+| **Data analysis**   | **R programming** (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) <br> **Python** (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.) <br> **SAS** |  |
+| **Data visualization** | Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet |  |
+| **Geospatial analysis** | QGIS, ESRI products, Spatial - R programming |  |
 
-| Category            | Tools & Technologies |
-|---------------------|---------------------|
-| **OS**             | Linux (Ubuntu, SUSE), Windows |
-| **Office tools**   | LibreOffice, Microsoft Office, LaTeX |
-| **Data management** | **SQL, SPARQL** <br> - **DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J <br> - **Big data infrastructures:** Hadoop, Spark, Pyspark, DASK |
-| **Data analysis**   | **R programming** (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) <br> **Python** (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.) <br> **SAS** |
-| **Data visualization** | Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet |
-| **Geospatial analysis** | QGIS, ESRI products, Spatial - R programming |
 
 ### Other fields I am interested in
 
