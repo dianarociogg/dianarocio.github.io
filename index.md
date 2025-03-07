@@ -45,7 +45,7 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 
 ---
 
-### What is an end-to-end data solution and how does an example look?
+### What is an end-to-end data solution and how does an example look like?
 
 - [Framework for end-to-end data science projects including geospatial component.](https://upcommons.upc.edu/handle/2117/410221)
 - [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
