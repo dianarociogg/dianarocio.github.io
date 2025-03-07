@@ -41,7 +41,7 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 - [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R)
 - [Some map thumbnails collection](/images/thumbnail_2.jpg)
 
-<img src="images/demo.gif"/>
+<img src="images/demo.gif" width="300" height="200"/>
 
 ---
 
