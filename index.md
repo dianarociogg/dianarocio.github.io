@@ -6,11 +6,6 @@ Some project codes are available on repositories, most of them cannot share due 
 
 I am constantly learning new technologies and methods, and I enjoy to collaborate to achieve goals in diverse and dynamic teams. You can view my CV on this website for more information about my experience and qualifications. If you need references or further information, please contact me directly. 
 
-### End-to-end data projects
-
-- [Framework for end-to-end data science projects including geospatial component.](https://upcommons.upc.edu/handle/2117/410221)
-- [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
-
 ---
 
 ### Data reduction, segmentation, classification, prediction and visualization
@@ -49,6 +44,22 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 <img src="images/demo.gif"/>
 
 ---
+
+### What is an end-to-end data solution and how does an example look?
+
+- [Framework for end-to-end data science projects including geospatial component.](https://upcommons.upc.edu/handle/2117/410221)
+- [Mapping data actions for the SDGs in the global south - (technical design and development)](https://cepei.org/wp-content/uploads/2024/12/TechnicalReportMappingDataActions.pdf)
+
+### Tools and technologies I work with
+
+| Category            | Tools & Technologies |
+|---------------------|---------------------|
+| **OS**             | Linux (Ubuntu, SUSE), Windows |
+| **Office tools**   | LibreOffice, Microsoft Office, LaTeX |
+| **Data management** | **SQL, SPARQL** <br> - **DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J <br> - **Big data infrastructures:** Hadoop, Spark, Pyspark, DASK |
+| **Data analysis**   | **R programming** (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) <br> **Python** (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.) <br> **SAS** |
+| **Data visualization** | Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet |
+| **Geospatial analysis** | QGIS, ESRI products, Spatial - R programming |
 
 ### Other fields I am interested in
 
