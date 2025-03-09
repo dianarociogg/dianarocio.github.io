@@ -1,4 +1,4 @@
 title: Diana Rocío Galindo
-logo: "/images/Logo.png"
+<img src="/images/Logo.png" alt="Logo" width="100">
 description: Full data stack | Data science | Geospatial
 theme: jekyll-theme-minimal
