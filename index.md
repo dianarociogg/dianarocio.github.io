@@ -1,10 +1,9 @@
-# Diana Rocio Galindo
+# Diana Rocio Galindo 
 
-I am specialised in design, develop, implement and integrate data sources and provide solutions using data science for decision making processes. I use tools and techniques in each stage of the projects as data engineering, analysis, management, and visualisation.  
 
-Some project codes are available on repositories, most of them cannot share due to confidentiality agreements. I have strong analytical, problem-solving, and communication skills, and I am passionate about using data to support decision-making and improve social and environmental outcomes. 
+I am specialised in design, develop, implement and integrate data sources and provide solutions using data science for decision making processes. I use tools and techniques in each stage of the projects as data engineering, analysis, management, and visualisation.  Strong analytical, problem-solving, and communication oriented skills, I am passionate about using data to support decision-making and improve social and environmental outcomes for multidisciplinary data.
 
-I am constantly learning new technologies and methods, and I enjoy to collaborate to achieve goals in diverse and dynamic teams. You can view my CV on this website for more information about my experience and qualifications. If you need references or further information, please contact me directly. 
+I enjoy constantly learning new technologies and methods, and professionally to collaborate to achieve goals in diverse and dynamic teams. For more information about my experience and qualifications or further information, please contact me directly. 
 
 ---
 
@@ -16,7 +15,7 @@ Projects related to data science related to cluster/segmentation data, classific
 - [Principal Component Analysis for agricultural study (R)](/ohtml/20180320_ACP_CNA.html)
 - [Classification of land-properties per socioeconomic characteristics (Python)](/ohtml/201806606_Kmeans_estratificacion.html)
 - [Multivariate linear regression analysis](/pdf/LinearRegression_21.pdf)
-- [Multivariate generalized linear regression analysis](/pdf/GeneralizedLinearModel_21pdf)
+- [Multivariate generalized linear regression analysis](/pdf/GeneralizedLinearModel_21.pdf)
 - [Granting credit modelling](https://modelosriesgo.shinyapps.io/CoasmedasOM1_202205/)
 
 - [Don't Get Kicked! dataset machine learning exercise (Python)](https://github.com/drgalindog/dianarocioprojects/tree/main/Python/Kicks_data_prediction)
@@ -58,13 +57,13 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 ### EO image and data processing
 
 - [Unsupervised classication of remote sensing images combining Self-Organizing Maps and segmentation techniques.](/pdf/Unsupervised_classification_of_rs_images_combining_SOM_Segmentation_13.pdf)
-- [MERGING MULTISPECTRAL AND PANCROMATIC BANDS OF LANDSAT USING COKRIGING.](/pdf/Merging_multispectral_panchromatic_bands_landsat_cokriging_13.pdf)
-- [APPROXIMATION OF ORGANIC CARBON AND MOISTURE CONTENT USING DIGITAL IMAGE PROCESSING](/pdf/OrganicMatterHumiditySoil_06.pdf)
+- [Merging multispectral and panchromatic bands of LANDSAT using cokriging.](/pdf/Merging_multispectral_panchromatic_bands_landsat_cokriging_13.pdf)
+- [Approximation of Organic Carbon and Moisture in soil surface using Digital Image Processing.](/pdf/OrganicMatterHumiditySoil_06.pdf)
 - [Additional documentation](/pdf/)
 
 ### Other fields I am interested in
 
 - Explainability and reproducibility
 - Knowledge graphs and semantic web
-- Data-driven and technical commited public policy
+- Data-driven and technical/ethical commited public policy
 
