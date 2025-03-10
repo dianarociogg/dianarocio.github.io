@@ -12,7 +12,7 @@ I enjoy constantly learning new technologies and methods, and professionally to 
 Projects related to data science related to cluster/segmentation data, classification and prediction/forecasting. 
 
 - [Mapping data actions for the SDGs in the global south - (Tableau viz)](https://public.tableau.com/app/profile/cepei4743/viz/Mappingdataactions2024/Region)
-- [Principal Component Analysis for agricultural study (R)](/ohtml/20180320_ACP_CNA.html)
+- [Principal Component Analysis for agricultural study (R)]([/ohtml/20180320_ACP_CNA.html](https://rawcdn.githack.com/dianarociogg/dianarocio.github.io/1a8045d002c101dd813fecc6317b8fd8260bdc2d/ohtml/20180320_ACP_CNA.html))
 - [Classification of land-properties per socioeconomic characteristics (Python)](/ohtml/201806606_Kmeans_estratificacion.html)
 - [Multivariate linear regression analysis](/pdf/LinearRegression_21.pdf)
 - [Multivariate generalized linear regression analysis](/pdf/GeneralizedLinearModel_21.pdf)
@@ -20,7 +20,8 @@ Projects related to data science related to cluster/segmentation data, classific
 
 - [Don't Get Kicked! dataset machine learning exercise (Python)](https://github.com/drgalindog/dianarocioprojects/tree/main/Python/Kicks_data_prediction)
 - [Pyspark and EDA](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
-- [Tableau dashboard](https://github.com/drgalindog/drgalindog.github.io/tree/master/ohtml) 
+- [Geopandas analysis](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
+- [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R) |
 
 ---
 
@@ -43,14 +44,14 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 
 ### Tools and technologies I work with
 
-| Category            | Tools & Technologies | Example |
-|---------------------|---------------------|------|
-| **OS**             | Linux (Ubuntu, SUSE), Windows | <img src="images/demo.gif" width="100"/> |
-| **Office tools**   | LibreOffice, Microsoft Office, LaTeX |  |
-| **Data management** | **SQL, SPARQL** <br> - **DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J <br> - **Big data infrastructures:** Hadoop, Spark, Pyspark, DASK |  |
-| **Data analysis**   | **R programming** (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) <br> **Python** (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.) <br> **SAS** | [Geopandas analysis](https://github.com/drgalindog/dianarocioprojects/tree/main/Python) |
-| **Data visualization** | Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet | [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R) |
-| **Geospatial analysis (Both vector and raster)** | QGIS, ESRI products, Spatial - R programming, Hexagon |  |
+**OS:** Linux (Ubuntu, SUSE), Windows
+**Office tools:**  LibreOffice, Microsoft Office, LaTeX
+**Data management:** SQL, SPARQL
+**DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J
+**Big data infrastructures:** Hadoop, Spark, Pyspark, DASK 
+**Data analysis:** __R programming__ (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) __Python__ (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.), __SAS__ 
+**Data visualization:** Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet 
+**Geospatial analysis (Both vector and raster):** QGIS, ESRI products, Spatial - R programming, Hexagon
 
 ---
 
@@ -59,7 +60,7 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 - [Unsupervised classication of remote sensing images combining Self-Organizing Maps and segmentation techniques.](/pdf/Unsupervised_classification_of_rs_images_combining_SOM_Segmentation_13.pdf)
 - [Merging multispectral and panchromatic bands of LANDSAT using cokriging.](/pdf/Merging_multispectral_panchromatic_bands_landsat_cokriging_13.pdf)
 - [Approximation of Organic Carbon and Moisture in soil surface using Digital Image Processing.](/pdf/OrganicMatterHumiditySoil_06.pdf)
-- [Additional documentation](/pdf/)
+- [Additional documentation](https://github.com/dianarociogg/dianarocio.github.io/tree/main/pdf)
 
 ### Other fields I am interested in
 
