@@ -57,7 +57,7 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 
 ### EO image and data processing
 
-- [Unsupervised classication of remote sensing images combining Self-Organizing Maps and segmentation techniques.](/pdf/Unsupervised_classification_of_rs_images_combining_SOM_Segmentation_13.pdf)
+- [Unsupervised classification of remote sensing images combining Self-Organizing Maps and segmentation techniques.](/pdf/Unsupervised_classification_of_rs_images_combining_SOM_Segmentation_13.pdf)
 - [Merging multispectral and panchromatic bands of LANDSAT using cokriging.](/pdf/Merging_multispectral_panchromatic_bands_landsat_cokriging_13.pdf)
 - [Approximation of Organic Carbon and Moisture in soil surface using Digital Image Processing.](/pdf/OrganicMatterHumiditySoil_06.pdf)
 - [Additional documentation](https://github.com/dianarociogg/dianarocio.github.io/tree/main/pdf)
