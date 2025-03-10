@@ -21,7 +21,7 @@ Projects related to data science related to cluster/segmentation data, classific
 - [Don't Get Kicked! dataset machine learning exercise (Python)](https://github.com/drgalindog/dianarocioprojects/tree/main/Python/Kicks_data_prediction)
 - [Pyspark and EDA](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
 - [Geopandas analysis](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
-- [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R) |
+- [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R)
 
 ---
 
