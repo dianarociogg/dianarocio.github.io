@@ -44,14 +44,14 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 
 ### Tools and technologies I work with
 
-**OS:** Linux (Ubuntu, SUSE), Windows
-**Office tools:**  LibreOffice, Microsoft Office, LaTeX
-**Data management:** SQL, SPARQL
-**DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J
-**Big data infrastructures:** Hadoop, Spark, Pyspark, DASK 
-**Data analysis:** __R programming__ (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) __Python__ (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.), __SAS__ 
-**Data visualization:** Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet 
-**Geospatial analysis (Both vector and raster):** QGIS, ESRI products, Spatial - R programming, Hexagon
+- **OS:** Linux (Ubuntu, SUSE), Windows
+- **Office tools:**  LibreOffice, Microsoft Office, LaTeX
+- **Data management:** SQL, SPARQL
+- **DBMS / DataWarehousing:** Oracle, PostgreSQL/PostGIS, MongoDB, Neo4J
+- **Big data infrastructures:** Hadoop, Spark, Pyspark, DASK 
+- **Data analysis:** __R programming__ (dplyr, tidiverse, ggplot2, mlr3, sf, RStudio, etc.) __Python__ (NumPy, pandas, matplotlib, scikit-learn, seaborn, PySAL, IPython, Keras, TensorFlow, Transformers, Geopandas, etc.), __SAS__ 
+- **Data visualization:** Plotly, Dash, Tableau, Power BI, Grafana, D3, Leaflet 
+- **Geospatial analysis (Both vector and raster):** QGIS, ESRI products, Spatial - R programming, Hexagon
 
 ---
 
