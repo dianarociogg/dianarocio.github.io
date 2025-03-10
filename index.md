@@ -29,7 +29,7 @@ Projects related to data science related to cluster/segmentation data, classific
 
 Geospatial data (vector and raster) analysis commonly implies use of conventional statistical data and its integration with alternative sources in applied research and innovation projects. Likewise, requires the application of different techniques for data analysis including statistical methods, machine Learning and AI algorithms.
 
-<img src="images/thumbnail_1.jpg?raw=true"/>
+<img src="images/thumbnail_1.jpg?raw=true" width="1000">
 
 - [Some map thumbnails collection.](/images/thumbnail_2.jpg)
 
