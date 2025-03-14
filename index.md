@@ -1,9 +1,9 @@
 # Diana Rocio Galindo 
 
 
-I am specialised in design, develop, implement and integrate data sources and provide solutions using data science for decision making processes. I use tools and techniques in each stage of the projects as data engineering, analysis, management, and visualisation.  Strong analytical, problem-solving, and communication oriented skills, I am passionate about using data to support decision-making and improve social and environmental outcomes for multidisciplinary data.
+Over 15 years of experience in data production, analysis and research, focused on geospatial technologies applied to both institution processes and innovative projects across various domains. With a background and continuous learning, I am prepared to conduct data-driven initiatives and add value through location-based analysis. Recently relocated to the Netherlands, my goal is to contribute skills and experience in a dynamic environment that prioritizes ethical, high-quality, and results-oriented challenges.
 
-I enjoy constantly learning new technologies and methods, and professionally to collaborate to achieve goals in diverse and dynamic teams. For more information about my experience and qualifications or further information, please contact me directly. 
+For more information about my experience and qualifications or further information, please contact me directly. 
 
 ---
 
