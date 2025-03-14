@@ -42,7 +42,7 @@ Geospatial data (vector and raster) analysis commonly implies use of conventiona
 
 ---
 
-### Tools and technologies I work with
+### Tools and technologies experience or interest
 
 - **OS:** Linux (Ubuntu, SUSE), Windows.
 - **Office tools:**  LibreOffice, Microsoft Office, LaTeX.
