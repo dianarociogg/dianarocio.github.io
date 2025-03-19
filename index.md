@@ -22,6 +22,7 @@ Projects related to data science related to cluster/segmentation data, classific
 - [Pyspark and EDA.](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
 - [Geopandas analysis.](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
 - [R dashboard with map.](https://github.com/drgalindog/dianarocioprojects/tree/main/R)
+- [Colombia Linked Open Data Geoinformation exercise](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Linked_open_data_geoinformation_Colombia_12.pdf)
 
 ---
 
