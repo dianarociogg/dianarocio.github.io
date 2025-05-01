@@ -1,9 +1,8 @@
 # Diana Rocio Galindo 
 
+Geo-driven, data-fueled, policy-aware. I crunch maps & models with style—look 10 years younger, think 100% sharper 😉. Smile fades only in deep analysis and focused work.
 
-Over 15 years of experience in data production, analysis and research, focused on geospatial technologies applied to both institution processes and innovative projects across various domains. With a background and continuous learning, I am prepared to conduct data-driven initiatives and add value through location-based analysis. Recently relocated to the Netherlands, my goal is to contribute skills and experience in a dynamic environment that prioritizes ethical, high-quality, and results-oriented challenges.
-
-For more information about my experience and qualifications or further information, please contact me directly. 
+For more information about my experience and qualifications or further information, please contact me directly it dianargalindog at outlook.com or through [Linkedin](https://www.linkedin.com/in/drgalindog/)
 
 ---
 
