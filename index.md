@@ -1,6 +1,7 @@
 # Diana Rocio Galindo 
 
-Geo-driven, data-fueled, policy-aware. I crunch maps & models with style—look 10 years younger, think 100% sharper 😉. Smile fades only in deep analysis and focused work.
+Geo-driven, data-fueled, policy-aware. 
+Smile fades only in deep analysis and focused work.
 
 For more information about my experience and qualifications or further information, please contact me directly it dianargalindog at outlook.com or through [Linkedin](https://www.linkedin.com/in/drgalindog/)
 
