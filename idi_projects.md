@@ -1,10 +1,10 @@
 ## Lead applied research and innovation projects for geospatial data management
 (In spanish)
-- [Deep Learning applied to the classification of construction typologies](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0007_deeplearning.jpg)
-- [Methodology for obtaining and analyzing real estate data using alternative sources](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0008_webscraping.jpg)
-- [Optimization for digital soil mapping](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0003_mapeosuelos.jpg)
-- [Evaluation of object-based classification in the generation of basic cartography 1:10,000](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0005_calsifiobjetos.jpg)
-- [Built-up area change detection](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0001_deteccioncambios.jpg)
+- [Deep Learning applied to the classification of construction typologies](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/0007_deeplearning.jpg?raw=true)
+- [Methodology for obtaining and analyzing real estate data using alternative sources](pdf/Led_projects/17952-Article Text-119329-1-10-20220810.pdf)
+- [Optimization for digital soil mapping](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/0003_mapeosuelos.jpg?raw=true)
+- [Evaluation of object-based classification in the generation of basic cartography 1:10,000](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/0002_geomorfologia.jpg?raw=true](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/0005_calsifiobjetos.jpg?raw=true))
+- [Built-up area change detection](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/0001_deteccioncambios.jpg?raw=true)
 - [Strengthening Colombia's Spatial Data Infrastructure](https://www.icde.gov.co/)
 - [Diffusion and transfer of knowledge in geospatial technologies](https://semanageomatica.igac.gov.co/2020/)
 
@@ -18,7 +18,7 @@
 
 <img src="images/MscThesisWF.png?raw=true"/>
 
-- [Obtaining a land overage map of Páramo de Sumapaz area](/pdf/XXSimposioEstadisticaUNAL.pdf)
+- [Obtaining a land coverage map of Páramo de Sumapaz area](/pdf/XXSimposioEstadisticaUNAL.pdf)
 
 <img src="images/SumapazClus.png?raw=true"/>
 
