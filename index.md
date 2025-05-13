@@ -1,9 +1,9 @@
 # Diana Rocio Galindo 
 
 Geo-driven, data-fueled, policy-aware. 
-Smile fades only in deep analysis and focused work.
+Smile fades only in deep analysis.
 
-For more information about my experience and qualifications or further information, please contact me directly it dianargalindog at outlook.com or through [Linkedin](https://www.linkedin.com/in/drgalindog/)
+For more information about my experience and qualifications or detailed information, please contact me directly it dianargalindog at outlook.com or through [Linkedin](https://www.linkedin.com/in/drgalindog/)
 
 ---
 
@@ -30,10 +30,12 @@ Projects related to data science related to cluster/segmentation data, classific
 
 Geospatial data (vector and raster) analysis commonly implies use of conventional statistical data and its integration with alternative sources in applied research and innovation projects. Likewise, requires the application of different techniques for data analysis including statistical methods, machine Learning and AI algorithms.
 
-<img src="images/thumbnail_1.jpg?raw=true" width="850">
-
+- [Projects lead in Research and Development for geographic information.](idi_projects.md)
+- [Statistical and Spatial Analysis of Census Data for the Study of Family and Industrial Farming in Colombia](https://www.researchgate.net/publication/336804505_Statistical_and_Spatial_Analysis_of_Census_Data_for_the_Study_of_Family_and_Industrial_Farming_in_Colombia)
+- [International Seminar On United Nations Global Geospatial Information Management "Geospatial Information for Sustainable Development"](https://ggim.un.org/meetings/2018-International-Seminar-Kenya/documents/02_Diana_DANE_20181203_1131.pdf)
 - [Some map thumbnails collection.](/images/thumbnail_2.jpg)
 
+<img src="images/thumbnail_1.jpg?raw=true" width="850">
 ---
 
 ### What is an end-to-end data solution and how does an example look like?
