@@ -1,10 +1,10 @@
 ## Lead applied research and innovation projects for geospatial data management
 (In spanish)
-- [Deep Learning applied to the classification of construction typologies](pdf/Led_projects/0001_deteccioncambios.jpg)
+- [Deep Learning applied to the classification of construction typologies](pdf/Led_projects/0007_deeplearning.jpg)
 - [Methodology for obtaining and analyzing real estate data using alternative sources](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/17952-Article%20Text-119329-1-10-20220810.pdf)
 - [Optimization for digital soil mapping](pdf/Led_projects/0003_mapeosuelos.jpg)
-- [Evaluation of object-based classification in the generation of basic cartography 1:10,000](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/0002_geomorfologia.jpg?raw=true](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/0005_calsifiobjetos.jpg?raw=true))
-- [Built-up area change detection](https://github.com/dianarociogg/dianarocio.github.io/blob/main/pdf/Led_projects/0001_deteccioncambios.jpg?raw=true)
+- [Evaluation of object-based classification in the generation of basic cartography 1:10,000](pdf/Led_projects/0005_calsifiobjetos.jpg)
+- [Built-up area change detection](pdf/Led_projects/0001_deteccioncambios.jpg)
 - [Strengthening Colombia's Spatial Data Infrastructure](https://www.icde.gov.co/)
 - [Diffusion and transfer of knowledge in geospatial technologies](https://semanageomatica.igac.gov.co/2020/)
 
